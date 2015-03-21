@@ -1,0 +1,16 @@
+[
+{
+  "modid": "devtools",
+  "name": "DevTools",
+  "description": "ModPack developer tools",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/pobiega/DevTools",
+  "updateUrl": "",
+  "authorList": ["Pobiega"],
+  "credits": "Pobiega",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
